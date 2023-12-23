@@ -1,0 +1,28 @@
+img {
+    height: 200px;
+    width: 200px;
+  }
+  
+  .color {background-color: yellow;
+  }
+  
+[value="1"] {
+    color: red;
+  }
+  
+  [value="2"]{
+    color: blue;
+  }
+  
+  [value="4"] {
+    color: orange;
+  }
+  
+  [value="5"]{
+    color: green;
+  }
+  
+  [value="3"] {
+    color: rgb(164, 169, 27);
+  }
+  
